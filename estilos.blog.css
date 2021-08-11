@@ -1,0 +1,232 @@
+.cuerpo{
+    background: #B8FFFA;
+    margin: 0;
+    padding: 0;
+}
+.cuerpo .contenedor{
+    width: 100%;
+    align-content: center;
+    height: 78%;
+    background: #C5B7FF;
+    font-weight: bolder;
+}
+.cuerpo .contenedor .h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+}
+.barra{
+    background: #FFA3EC;
+    width: 30%;
+    color: black;
+    align-content: center;
+    font-family: 'Acme', sans-serif;
+    height: 26px;
+    margin: 210px auto;
+    margin-top: 50px;
+    margin-bottom: 160px;
+    text-align: center;
+}
+.barra1{
+    margin: 0px;
+    color: blueviolet;
+    height: 39px;
+    margin-left: 25px;
+}
+
+.contenedor2 .h2{
+    color: rgb(0, 0, 0);
+    background: #FFB6A3;
+    text-align: center;
+    height: 50px;
+    font-family: 'Indie Flower', cursive;
+    width: 70%;
+    margin: 210px auto;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    font-weight: bolder;
+}
+.h2{
+    color: blue;
+}
+.contenedor-2{
+    background: #FFB6A3;
+    width: 70%;
+    margin: 210px auto;
+    margin-top: 0px;
+}
+.p1{
+    color: rgb(0, 0, 0);
+    font-family: 'Oswald', sans-serif;
+    height: 10px;
+    margin-bottom: 30px;
+}
+.h4{
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    background: #FFB6A3;
+    width: 70%;
+    color: rgb(3, 3, 3);
+    margin: 210px auto;
+    margin-top: 15px;
+    margin-bottom: 16px;
+    font-size: 40px;
+}
+.p2{
+    color: rgb(0, 0, 0);
+    font-family: 'Oswald', sans-serif;
+    height: 600px;
+    width: 70%;
+    text-align: center;
+    margin: 210px auto;
+    margin-bottom: 30px;
+    margin-top: 0px;
+    background: #FFB6A3;
+    margin-top: 0px;
+
+}
+.p3{
+    color: rgb(0, 0, 0);
+    font-family: 'Oswald', sans-serif;
+    height: 700px;
+    width: 70%;
+    text-align: center;
+    margin: 210px auto;
+    margin-bottom: 30px;
+    margin-top: 0px;
+    background: #FFB6A3;
+    margin-top: 0px;
+}
+.i{
+    width: 40%;
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+.NY{
+    width: 600px;
+    height: 450px;
+    margin-top: 40px;
+    margin-left: -345px;
+}
+.milton{
+    width: 60%;
+    height: 400px;
+    margin-left: 20%;
+    margin-top: 250px;
+}
+.contenedor3{
+    color: rgb(0, 0, 0);
+    background: #FFB6A3;
+    text-align: center;
+    height: 170px;
+    width: 70%;
+    margin: 210px auto;
+    margin-top: 10px;
+    margin-bottom: 100px;
+}
+.h3{
+    background: #FFB6A3;
+    width: 70%;
+    color: rgb(0, 0, 0);
+    margin: 210px auto;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+.h5{
+    background: #FFB6A3;
+    width: 70%;
+    color: rgb(0, 0, 0);
+    margin: 210px auto;
+    margin-top: 75px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 40px;
+}
+.h6{
+    background: #FFB6A3;
+    width: 70%;
+    color: rgb(0, 0, 0);
+    margin: 210px auto;
+    margin-top: 75px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 40px;
+}
+.p4{
+    color: rgb(0, 0, 0);
+    font-family: 'Oswald', sans-serif;
+    height: 750px;
+    width: 70%;
+    text-align: center;
+    margin: 210px auto;
+    margin-bottom: 30px;
+    margin-top: 0px;
+    background: #FFB6A3;
+    margin-top: 0px;
+}
+.h-1{
+    width: 40%;
+    height: 600px;
+    margin-top: 30px;
+    margin-left: 106px;
+}
+.obras{
+    background: #FFB6A3;
+    width: 70%;
+    color: rgb(0, 0, 0);
+    margin: 210px auto;
+    margin-top: 75px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 50px;
+}
+
+.b{
+    width: 170px;
+    height: 300px;
+    transform: skewY(16deg);
+    margin-left: -46px;
+}
+.c{
+    width: 170px;
+    height: 300px;
+    transform: skewY(16deg);
+    margin-left: -46px;
+}
+.d{
+    width: 170px;
+    height: 300px;
+    transform: skewY(16deg);
+    margin-left: -46px;
+}
+.e{
+    width: 170px;
+    height: 300px;
+    transform: skewY(16deg);
+    margin-left: -46px;
+}
+.f{
+    width: 170px;
+    height: 300px;
+    transform: skewY(16deg);
+    margin-left: -76px;
+}
+.g{
+    width: 170px;
+    height: 300px;
+    transform: skewY(16deg);
+    margin-left: -46px;
+}
+.h{
+    width: 170px;
+    height: 300px;
+    transform: skewY(16deg);
+    margin-left: -46px;
+}
